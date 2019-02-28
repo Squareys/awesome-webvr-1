@@ -19,12 +19,14 @@ Name and description | Link
 -------------------- | -------------
 A-Frame Slack | [Join](https://aframevr-slack.herokuapp.com/)
 A-Frame Stack Overflow | [Questions](https://stackoverflow.com/questions/tagged/aframe)
+Construct Arcade Forums | [Forum](https://forums.constructarca.de/)
 
 ## Examples
 Name and description | Link
 -------------------- | -------------
 Google WebVR Experiments | [Website](https://experiments.withgoogle.com/webvr)
 WebVR Directory | [Website](http://webvr.directory/)
+Construct Arcade | [Website](https://constructarca.de/)
 
 ## Software
 Name and description | Link
